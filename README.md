@@ -1,9 +1,11 @@
 # SQLparser
-Parser de pseudocódigo em "modelo lógico" para SQL.
+Parser de "modelo lógico" para SQL.
 
 como fazer este magnifico script funcionar
+0. Instale python3 se ainda não o tem instalado
 1. Cire um arquivo chamado "insert.txt"
 2. Coloque seu modelo logico de preferencia escrito pela professora bruna ou sor roger no arquivo criado com uma linha em branco no final.
+2.1 Rode o script no cmd ou no bash
 3. Defina os datatypes, defina as chaves primárias e retire os hashtags (os mantive p ser mais fácil de verificar o codigo)
 4. lucro
 
