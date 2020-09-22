@@ -10,7 +10,7 @@ como fazer este magnifico script funcionar
 4. lucro
 
 FAQ
-* "Hurr rodrigo nao fuincionou oque eu posso fazer como vou fazer meu tema de casas !!!!!?????????"
+* "mas rodrigo isso nao fuincionou oque eu posso fazer como vou fazer meu tema de casa!!!!?????????"
 - nao sei da teus pulo meu galo
 
 * "rodrigo meu professor escreve os modelo logico diferente"
