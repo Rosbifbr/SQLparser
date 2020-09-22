@@ -8,8 +8,8 @@ como fazer este magnifico script funcionar
 4. lucro
 
 FAQ
-"Hurr rodrigo nao fuincionou oque eu posso fazer como vou fazer meu tema de casas !!!!!?????????"
+* "Hurr rodrigo nao fuincionou oque eu posso fazer como vou fazer meu tema de casas !!!!!?????????"
 - nao sei da teus pulo meu galo
 
-"rodrigo meu professor escreve os modelo logico diferente"
+* "rodrigo meu professor escreve os modelo logico diferente"
 - tranquilo so criar uma branch e mudar o script
