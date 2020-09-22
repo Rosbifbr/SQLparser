@@ -20,7 +20,6 @@ for x in f1:
                 newcoll = x[pos+1:x.find(')', pos)]
                 newcoll = newcoll.replace('*','')
                 outs.write(newcoll + ' DATATYPE NOT NULL')
-                outs.write('\n);\n')
             
             elif '*' in column:
                 newcoll = x[pos+1:x.find(',', pos+1)]
@@ -36,6 +35,6 @@ for x in f1:
                 outs.write(x[pos+1:x.find(',', pos+1)] + ' DATATYPE,\n')
             pos=x.find(',', pos+1) #prints column with DATATYPE to be replaced by actual datatype
         if not('referencia' in f1[f1.index(x)+1]):
-            outs.write(");\n")
+            outs.write("\n);\n")
 print("Done!")
         
